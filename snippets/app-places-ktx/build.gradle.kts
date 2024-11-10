@@ -66,7 +66,7 @@ dependencies {
     // [END_EXCLUDE]
 
     // KTX for the Places SDK for Android library
-    implementation("com.google.maps.android:places-ktx:3.2.0")
+    implementation("com.google.maps.android:places-ktx:3.3.1")
 }
 // [END places_android_ktx_install_snippet]
 
